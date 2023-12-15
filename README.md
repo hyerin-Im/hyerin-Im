@@ -1,11 +1,11 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=IM%20HYERIN&fontSize=90)
-####   🎉 안녕하세요!
+###   🎉 안녕하세요!
 <br/>
 <br/>
 
-#### 👇 사용할수 있는 스택들
+### 👇 사용할수 있는 스택들
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
