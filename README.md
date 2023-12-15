@@ -5,7 +5,6 @@
 <br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyerin-Im&count_bg=%23FFC6C6&title_bg=%23FF7C7C&icon=&icon_color=%23E9E9E9&title=%E3%83%BE%28%E2%80%A2%CF%89%E2%80%A2%60%29o+hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
-![gif](https://github.com/hyerin-Im/movie/assets/126569229/7ce35592-762b-49e7-b81d-85bc409cf0d8)
 
 ### 👇 Front-end Stacks
 
