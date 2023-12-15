@@ -2,7 +2,13 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=IM%20HYERIN&fontSize=90)
 ###   Hello! I'm Hyerin! 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyerin-Im&count_bg=%23FFC6C6&title_bg=%23FF7C7C&icon=&icon_color=%23E9E9E9&title=%E3%83%BE%28%E2%80%A2%CF%89%E2%80%A2%60%29o+hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <br/>
+
+![84f221f4e5fce87f083fe2c1f489cd4c](https://github.com/hyerin-Im/hyerin-Im/assets/126569229/ac235371-1cac-48bc-83de-76f8d9e999de)
+
+
 
 ### 👇 Front-end Stacks
 
