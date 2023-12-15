@@ -2,6 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=IM%20HYERIN&fontSize=90)
 ###   Hello! I'm Hyerin! 👋
+<br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyerin-Im&count_bg=%23FFC6C6&title_bg=%23FF7C7C&icon=&icon_color=%23E9E9E9&title=%E3%83%BE%28%E2%80%A2%CF%89%E2%80%A2%60%29o+hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 <br/>
