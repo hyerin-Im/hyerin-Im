@@ -1,7 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=IM%20HYERIN&fontSize=90)
-##   Hello! I'm Hyerin! 👋
+#   Hello! I'm Hyerin! 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyerin-Im&count_bg=%23FFC6C6&title_bg=%23FF7C7C&icon=&icon_color=%23E9E9E9&title=%E3%83%BE%28%E2%80%A2%CF%89%E2%80%A2%60%29o+hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/>
@@ -10,7 +10,7 @@
 
 
 
-### 👇 Front-end Stacks
+## 👇 Front-end Stacks
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +25,7 @@
 <br/>
 
 
-### Cloud Storage
+## Cloud Storage
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
 
 
